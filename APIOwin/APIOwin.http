@@ -1,0 +1,6 @@
+@APIOwin_HostAddress = http://localhost:5170
+
+GET {{APIOwin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
